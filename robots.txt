@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: Yandex
+User-agent: Googlebot
+Disallow: 
+Host: potolkirostov.ru
+Sitemap: https://potolkirostov.ru/sitemap.xml
+
